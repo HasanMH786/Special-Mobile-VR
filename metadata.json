@@ -1,0 +1,6 @@
+{
+  "name": "VeloVR Cinema",
+  "description": "Ultra-lightweight 60fps SBS VR Cinema, 360° player, and spatial browser for mobile VR headsets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
